@@ -1,0 +1,11 @@
+# ninja log v5
+20	52	0	copyHalConfig	5e0173f4928dcd10
+20	52	0	/workspaces/eeros-project/build/copyHalConfig	5e0173f4928dcd10
+47	4007	1713208445341520300	CMakeFiles/prov.dir/src/MyRobotSafetyProperties.cpp.o	9394a708e8d139c
+45	4391	1713208445725217500	CMakeFiles/prov.dir/src/ControlSystem.cpp.o	e32f02731181260f
+50	5393	1713208446721746100	CMakeFiles/prov.dir/src/main.cpp.o	584646d281c1f71f
+5423	5916	1713208447250699100	prov	9054041278fdb55e
+25	65	0	copyHalConfig	5e0173f4928dcd10
+25	65	0	/workspaces/eeros-project/build/copyHalConfig	5e0173f4928dcd10
+68	4049	1715179295593763200	CMakeFiles/prov.dir/src/main.cpp.o	584646d281c1f71f
+4061	4538	1715179296088701300	prov	9054041278fdb55e

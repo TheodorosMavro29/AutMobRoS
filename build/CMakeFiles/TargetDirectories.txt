@@ -1,0 +1,3 @@
+/workspaces/eeros-project/build/CMakeFiles/prov.dir
+/workspaces/eeros-project/build/CMakeFiles/edit_cache.dir
+/workspaces/eeros-project/build/CMakeFiles/rebuild_cache.dir
